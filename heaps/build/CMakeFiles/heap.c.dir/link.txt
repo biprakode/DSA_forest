@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc -g -Wl,--dependency-file=CMakeFiles/heap.c.dir/link.d CMakeFiles/heap.c.dir/user.c.o -o heap.c

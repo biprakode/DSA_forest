@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/run/media/biprarshi/COMMON/files/build",
+  "command": "/usr/lib64/ccache/cc   -g -o CMakeFiles/gen_heap.dir/heap.c.o -c /run/media/biprarshi/COMMON/files/introToAlgorithms/forest/heaps/heap.c",
+  "file": "/run/media/biprarshi/COMMON/files/introToAlgorithms/forest/heaps/heap.c",
+  "output": "CMakeFiles/gen_heap.dir/heap.c.o"
+},
+{
+  "directory": "/run/media/biprarshi/COMMON/files/build",
+  "command": "/usr/lib64/ccache/cc   -g -o CMakeFiles/gen_heap.dir/user.c.o -c /run/media/biprarshi/COMMON/files/introToAlgorithms/forest/heaps/user.c",
+  "file": "/run/media/biprarshi/COMMON/files/introToAlgorithms/forest/heaps/user.c",
+  "output": "CMakeFiles/gen_heap.dir/user.c.o"
+}
+]

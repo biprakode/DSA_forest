@@ -1,0 +1,3 @@
+/run/media/biprarshi/COMMON/files/introToAlgorithms/forest/BST/build/CMakeFiles/gen_bst.dir
+/run/media/biprarshi/COMMON/files/introToAlgorithms/forest/BST/build/CMakeFiles/edit_cache.dir
+/run/media/biprarshi/COMMON/files/introToAlgorithms/forest/BST/build/CMakeFiles/rebuild_cache.dir

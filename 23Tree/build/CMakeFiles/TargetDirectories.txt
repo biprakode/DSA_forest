@@ -1,0 +1,3 @@
+/run/media/biprarshi/COMMON/files/introToAlgorithms/forest/23Tree/build/CMakeFiles/gen_23tree.dir
+/run/media/biprarshi/COMMON/files/introToAlgorithms/forest/23Tree/build/CMakeFiles/edit_cache.dir
+/run/media/biprarshi/COMMON/files/introToAlgorithms/forest/23Tree/build/CMakeFiles/rebuild_cache.dir
