@@ -1,0 +1,3 @@
+/run/media/biprarshi/COMMON/files/introToAlgorithms/forest/DSA_forest/BTree/build/CMakeFiles/gen_BTree.dir
+/run/media/biprarshi/COMMON/files/introToAlgorithms/forest/DSA_forest/BTree/build/CMakeFiles/edit_cache.dir
+/run/media/biprarshi/COMMON/files/introToAlgorithms/forest/DSA_forest/BTree/build/CMakeFiles/rebuild_cache.dir

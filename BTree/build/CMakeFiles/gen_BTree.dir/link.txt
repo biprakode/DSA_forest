@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc -Wl,--dependency-file=CMakeFiles/gen_BTree.dir/link.d CMakeFiles/gen_BTree.dir/tree.c.o CMakeFiles/gen_BTree.dir/main.c.o -o gen_BTree  -lm

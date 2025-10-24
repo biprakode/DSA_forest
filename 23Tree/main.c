@@ -1,7 +1,6 @@
 #include "header.h"
 #include <time.h>
 
-// Comparison function for integers
 int compare_int(const void *a, const void *b) {
     int int_a = *((int*)a);
     int int_b = *((int*)b);
@@ -10,22 +9,18 @@ int compare_int(const void *a, const void *b) {
     return 0;
 }
 
-// Print function for integer keys
 void print_int(const void *data) {
     printf("%d", *((int*)data));
 }
 
-// Print function for string data
 void print_string(const void *data) {
     printf("%s", (char*)data);
 }
 
-// Free function for dynamic data
 void free_dynamic(void *data) {
     free(data);
 }
 
-// Test with integer keys and string data
 void test_int_string() {
     printf("=== Testing 2-3 Tree with Integer Keys and String Data ===\n");
     
